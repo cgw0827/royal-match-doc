@@ -6,8 +6,9 @@
 3. 目前实现200关
 4. 内含关卡编辑器，可以自行添加关卡数据。
 
-### 体验方式：   
+### 体验方式：      
 微信小游戏搜索《我的浪漫家园》
+<img src='./docs/pic/二维码.jpg'/>  
 
 ### 游戏视频
 [游戏视频](https://www.bilibili.com/video/BV1gkU5YHELW/?vd_source=3f0b411d925365a08cc23fd74f75b3c9)
