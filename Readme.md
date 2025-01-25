@@ -12,7 +12,7 @@
 2. qq:1211686618 -->
 
 
-### 换皮版体验
+<!-- ### 换皮版体验
 
 [体验地址](https://www.sarsgame.com/game/royalmatch2/)
 
@@ -22,7 +22,7 @@
 <img src='./docs/pic/二维码.jpg'/>  
 
 ### 农场版游戏视频
-[游戏视频](https://www.bilibili.com/video/BV1gkU5YHELW/?vd_source=3f0b411d925365a08cc23fd74f75b3c9)
+[游戏视频](https://www.bilibili.com/video/BV1gkU5YHELW/?vd_source=3f0b411d925365a08cc23fd74f75b3c9) -->
 
 <!-- ### 声明
 1. 购买后代码可以商用。
