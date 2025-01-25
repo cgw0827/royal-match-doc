@@ -101,9 +101,9 @@
 
 
 
-### 游戏效果图
+<!-- ### 游戏效果图
 <img src='./docs/pic/game/角色全9.png'/>    
-<img src='./docs/pic/game/游戏中2.png'/> 
+<img src='./docs/pic/game/游戏中2.png'/>  -->
 
 
 
