@@ -7,9 +7,9 @@
 4. 开发引擎：CocosCreator3.8.3
 5. 开发语言：TypeScript
 
-### 联系作者
+<!-- ### 联系作者
 1. wx:1211686618
-2. qq:1211686618
+2. qq:1211686618 -->
 
 
 ### 换皮版体验
@@ -43,10 +43,10 @@
 1. [Cocos引擎官方商城]()：官方提供代码验收服务，后期可以免费更新维护（未上架）
 2. [作者微店商城](https://weidian.com/item.html?itemID=7321721621):商店提供除Cocos引擎外，使用其他引擎制作的商品（如Laya，Egret等）。后期免费更新但是要加入作者的QQ群，因为微店不提供更新服务。 -->
 
-### 使用的工具   
+<!-- ### 使用的工具   
 
 1. [跨多平台的sdk框架](https://gitee.com/lecoolgamesdk/sdk)
-2. [数据表导出工具](https://gitee.com/lecoolgame_framework/sarsgamexlsxparser)
+2. [数据表导出工具](https://gitee.com/lecoolgame_framework/sarsgamexlsxparser) -->
 
 
 ### 产品介绍
