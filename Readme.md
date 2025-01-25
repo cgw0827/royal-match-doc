@@ -1,5 +1,5 @@
 
-## Royal Match 复刻 三消游戏源码   
+## Royal Match 三消游戏源码   
 
 1. 一款当下最流行的及时消除三消游戏，核心玩法和关卡配置复刻 RolyalMatch。 
 2. 游戏包大小:20MB
