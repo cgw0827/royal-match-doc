@@ -33,6 +33,11 @@
 8. [数据表介绍](./docs/数据表介绍.md) 
 
 ### 更新内容
+20250423：
+1. 添加第201关道具“牡蛎”
+2. [添加第231关道具“帽子”](https://www.bilibili.com/video/BV1e7LbztE9k/?spm_id_from=333.337.search-card.all.click&vd_source=3f0b411d925365a08cc23fd74f75b3c9)
+3. [添加第261关道具“花朵”](https://www.bilibili.com/video/BV1LXL4zdESy/?vd_source=3f0b411d925365a08cc23fd74f75b3c9)
+
 20250409：
 
 1. 关卡编辑器加入预览功能
