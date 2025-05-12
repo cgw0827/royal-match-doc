@@ -10,7 +10,7 @@
  ### 联系作者
 1. wx:1211686618
 2. qq:1211686618
-
+3. [哔哩哔哩](https://space.bilibili.com/346283253)
 
 ### 购买链接
 1. [Cocos引擎官方商城](https://store.cocos.com/app/detail/7180)：官方提供代码验收服务，后期可以免费更新维护
