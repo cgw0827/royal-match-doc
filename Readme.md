@@ -33,13 +33,16 @@
 8. [数据表介绍](./docs/数据表介绍.md) 
 
 ### 更新内容
+(2.0.2)
+1. 解决疯狂活动的显示不正常的bug
+
 20250414（2.0.1）:
 
 1. 添加头像，头像框，昵称
 2. 游戏中支持多面板
 3. 任务支持倒计时模式 
 4. 实现噩梦模式：目前有10关。
-[展示地址：](https://www.bilibili.com/video/BV181V4zCEYt?spm_id_from=333.788.recommend_more_video.0&vd_source=3f0b411d925365a08cc23fd74f75b3c9)
+[展示视频](https://www.bilibili.com/video/BV1d553zkERb/?spm_id_from=333.1387.0.0&vd_source=3f0b411d925365a08cc23fd74f75b3c9)
 
 20250412（1.0.5）：
 1. 添加第301关使用的新道具
