@@ -33,8 +33,10 @@
 8. [数据表介绍](./docs/数据表介绍.md) 
 
 ### 更新内容
-(2.0.2)
+
+20250519 (2.0.2)
 1. 解决疯狂活动的显示不正常的bug
+2. [加入排行榜模块](https://www.bilibili.com/video/BV1jzEDzeEzh/?vd_source=3f0b411d925365a08cc23fd74f75b3c9)
 
 20250414（2.0.1）:
 
